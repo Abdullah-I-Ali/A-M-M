@@ -14,7 +14,7 @@
    you can find link [here](https://zinc12.docking.org/)  
 
 6. ANPDB
-   the link .[here] (https://african-compounds.org/anpdb/)
+   the link .[here](https://african-compounds.org/anpdb/)
 
    Important Apps 
 
